@@ -1,0 +1,115 @@
+1
+00:00:00,590 --> 00:00:02,950
+Olá! Meu nome é Kunal e estou feliz por
+
+2
+00:00:02,950 --> 00:00:06,510
+você fazer este curso. Antes de começar,
+
+3
+00:00:06,510 --> 00:00:08,980
+quero me presentar e compartilhar com
+
+4
+00:00:08,980 --> 00:00:11,460
+você os dois motivos pelos quais estou empolgado em oferecer este
+
+5
+00:00:11,460 --> 00:00:15,780
+curso. Em primeiro lugar, eu adoro ensinar. Antes de entrar para a Udacity,
+
+6
+00:00:15,780 --> 00:00:19,040
+fui professor de ciências do ensino médio na Índia. Eu adorava
+
+7
+00:00:19,040 --> 00:00:21,920
+apresentar novas ideias aos alunos. Ideias que
+
+8
+00:00:21,920 --> 00:00:25,820
+os fizesse questionar o que já sabiam. Essa experiência me levou
+
+9
+00:00:25,820 --> 00:00:27,810
+a fazer um mestrado na
+
+10
+00:00:27,810 --> 00:00:31,490
+Faculdade de Educação da Universidade de Stanford. O segundo motivo é porque adoro
+
+11
+00:00:31,490 --> 00:00:34,500
+criar coisas com programação. Neste curso, vamos
+
+12
+00:00:34,500 --> 00:00:37,520
+usar a linguagem de programação Python para criar vários
+
+13
+00:00:37,520 --> 00:00:40,140
+projetos. Espero que você
+
+14
+00:00:40,140 --> 00:00:43,700
+compartilhe esses projetos com seus amigos. Aqui estão alguns deles.
+
+15
+00:00:43,700 --> 00:00:47,290
+O primeiro projeto é o do intervalo. Você conhece
+
+16
+00:00:47,290 --> 00:00:50,830
+alguém que trabalhe demais? Dica: essa pessoa pode
+
+17
+00:00:50,830 --> 00:00:53,550
+ser você. Criaremos um programa que marque
+
+18
+00:00:53,550 --> 00:00:56,980
+intervalos ao longo do dia, lembrando essa pessoa de ouvir
+
+19
+00:00:56,980 --> 00:00:59,890
+música, se levantar e dançar sua música favorita,
+
+20
+00:00:59,890 --> 00:01:02,110
+ou apenas se afastar do computador de vez em
+
+21
+00:01:02,110 --> 00:01:06,710
+quando. O outro projeto é chamado editor de palavrões. Imagine
+
+22
+00:01:06,710 --> 00:01:09,310
+que você receba um email do seu chefe pedindo sua ajuda
+
+23
+00:01:09,310 --> 00:01:11,840
+com algo. Você responde "posso tentar fazer isso",
+
+24
+00:01:11,840 --> 00:01:15,670
+mas acidentalmente acaba incluindo
+
+25
+00:01:15,670 --> 00:01:20,350
+uma palavra indevida. Opa. Vamos criar um breve programa Python que exclua
+
+26
+00:01:20,350 --> 00:01:24,820
+palavrões e salve você de momentos constrangedores no futuro. O projeto final
+
+27
+00:01:24,820 --> 00:01:29,090
+é o banco de dados de filmes. Neste projeto, aprenderemos a fazer uma página da Web
+
+28
+00:01:29,090 --> 00:01:37,570
+incrível que lista seus filmes favoritos e mostra os respectivos trailers. [SOUND]
+
+29
+00:01:37,570 --> 00:01:42,400
+[MUSIC]

@@ -1,0 +1,63 @@
+1
+00:00:00,410 --> 00:00:02,490
+Ahora antes de hacer algunos de estos proyectos,
+
+2
+00:00:02,490 --> 00:00:04,390
+quiero compartir contigo una historia de cómo aprendí a
+
+3
+00:00:04,390 --> 00:00:07,800
+programar. Recuerdo que en muchas de mis clases introductorias de
+
+4
+00:00:07,800 --> 00:00:11,050
+informática, el instructor comenzaba lentamente y mis
+
+5
+00:00:11,050 --> 00:00:13,440
+amigos y yo entendíamos todo, pero de repente
+
+6
+00:00:13,440 --> 00:00:17,930
+bum, el nivel de dificultad se disparaba. Esto hacia que
+
+7
+00:00:17,930 --> 00:00:20,760
+muchos de los estudiantes inscritos en la clase se sintieran muy
+
+8
+00:00:20,760 --> 00:00:24,450
+frustrados e intimidados por el código hasta que, por último, renunciaban.
+
+9
+00:00:25,460 --> 00:00:27,540
+Evitaremos eso en esta clase. En
+
+10
+00:00:27,540 --> 00:00:30,080
+esta clase vamos a hacer proyectos desafiantes, pero al
+
+11
+00:00:30,080 --> 00:00:33,360
+mismo tiempo nos aseguraremos de que te sientas cómodo
+
+12
+00:00:33,360 --> 00:00:35,940
+con la curva de aprendizaje. Por lo tanto, es con ese
+
+13
+00:00:35,940 --> 00:00:38,880
+espíritu que quiero preguntarte, ¿cuán seguro
+
+14
+00:00:38,880 --> 00:00:40,660
+te sientes de tu capacidad para escribir programas de
+
+15
+00:00:40,660 --> 00:00:43,260
+cómputo? Programas como los que vamos a
+
+16
+00:00:43,260 --> 00:00:45,810
+construir en esta clase. Estas son algunas de las opciones de respuesta.

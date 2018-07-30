@@ -1,0 +1,59 @@
+1
+00:00:00,400 --> 00:00:03,330
+Así que aquí estamos en el mapa del curso y quiero tomar un momento
+
+2
+00:00:03,330 --> 00:00:08,320
+para hablar de algunas grandes ideas que vamos a aprender juntos. En este curso, vamos
+
+3
+00:00:08,320 --> 00:00:09,600
+a comenzar con ideas con las
+
+4
+00:00:09,600 --> 00:00:13,300
+que estamos un tanto familiarizados. Estas incluyen Funciones, Funciones
+
+5
+00:00:13,300 --> 00:00:16,090
+como la simple, imprimir ("Hola Mundo"). Sin embargo,
+
+6
+00:00:16,090 --> 00:00:18,595
+pronto vamos a comenzar a aprender nuevas ideas.
+
+7
+00:00:18,595 --> 00:00:26,290
+[SONIDO]
+
+8
+00:00:26,290 --> 00:00:30,750
+Estas ideas incluyen Clases y Programación Orientada a Objetos. Ahora bien, esta
+
+9
+00:00:30,750 --> 00:00:35,280
+es una técnica que los ingenieros de software utilizan todos los días. Y pueden
+
+10
+00:00:35,280 --> 00:00:39,610
+utilizar esta técnica para escribir y compartir código entre sí. Ahora, aunque
+
+11
+00:00:39,610 --> 00:00:43,640
+vamos a empezar con Funciones en la lección uno, vamos a pasar la mayor parte de nuestro tiempo
+
+12
+00:00:43,640 --> 00:00:45,300
+en este curso aquí, aprendiendo acerca de
+
+13
+00:00:45,300 --> 00:00:48,060
+Clases. Ah, por cierto, todos los programas en
+
+14
+00:00:48,060 --> 00:00:49,530
+este curso están escritos en lenguaje
+
+15
+00:00:49,530 --> 00:00:52,490
+de programación Python. Por lo tanto, vamos a empezar por descargar Python.

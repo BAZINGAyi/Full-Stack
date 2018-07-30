@@ -1,0 +1,63 @@
+1
+00:00:00,410 --> 00:00:02,490
+Antes de fazer alguns desses projetos, quero
+
+2
+00:00:02,490 --> 00:00:04,390
+compartilhar com vocês como aprendi a
+
+3
+00:00:04,390 --> 00:00:07,800
+programar. Lembro que, em muitas das minhas aulas de introdução à
+
+4
+00:00:07,800 --> 00:00:11,050
+informática, o instrutor começava devagar e eu e
+
+5
+00:00:11,050 --> 00:00:13,440
+meus amigos compreendíamos tudo, mas, de
+
+6
+00:00:13,440 --> 00:00:17,930
+repente, o nível de dificuldade aumentava vertiginosamente. Isso fazia com que muitos
+
+7
+00:00:17,930 --> 00:00:20,760
+alunos na aula ficassem extremamente
+
+8
+00:00:20,760 --> 00:00:24,450
+frustrados e intimidados pelos códigos, acabando por desistir.
+
+9
+00:00:25,460 --> 00:00:27,540
+Vamos evitar isso nesta aula. Nesta
+
+10
+00:00:27,540 --> 00:00:30,080
+aula, desenvolveremos projetos desafiadores, mas,
+
+11
+00:00:30,080 --> 00:00:33,360
+ao mesmo tempo, vamos garantir que você esteja à vontade no
+
+12
+00:00:33,360 --> 00:00:35,940
+processo de aprendizagem. É com esse espírito que
+
+13
+00:00:35,940 --> 00:00:38,880
+quero perguntar se você se sente confiante
+
+14
+00:00:38,880 --> 00:00:40,660
+para escrever
+
+15
+00:00:40,660 --> 00:00:43,260
+programas de computador. Programas como os que vamos
+
+16
+00:00:43,260 --> 00:00:45,810
+desenvolver nesta aula. Veja algumas opções de resposta.

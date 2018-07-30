@@ -1,0 +1,35 @@
+1
+00:00:00,190 --> 00:00:02,950
+Agradecemos por compartilhar sua resposta. Antes de prosseguirmos,
+
+2
+00:00:02,950 --> 00:00:05,620
+quero ter certeza de que você está familiarizado com
+
+3
+00:00:05,620 --> 00:00:08,820
+os pré-requisitos do curso. Queremos que nossos alunos aprendam
+
+4
+00:00:08,820 --> 00:00:14,210
+algumas ideias básicas de computação. Como as definições de instruções if, loops e
+
+5
+00:00:14,210 --> 00:00:18,060
+funções. Você pode demonstrar que aprendeu essas ideias continuando a
+
+6
+00:00:18,060 --> 00:00:20,770
+assistir a este vídeo e respondendo às duas perguntas
+
+7
+00:00:20,770 --> 00:00:23,010
+a seguir. Se você achar que precisa recapitular
+
+8
+00:00:23,010 --> 00:00:25,510
+qualquer um desses tópicos, há alguns
+
+9
+00:00:25,510 --> 00:00:29,030
+links úteis nas Notas do instrutor. Aqui está a primeira pergunta.

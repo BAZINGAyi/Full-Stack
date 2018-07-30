@@ -1,0 +1,35 @@
+1
+00:00:00,028 --> 00:00:02,322
+Bueno, atrás de mi está parado el equipo
+
+2
+00:00:02,322 --> 00:00:04,616
+oficial de baile de Udacity y van a realizar
+
+3
+00:00:04,616 --> 00:00:06,912
+un paso de baile para nosotros. Observa con atención ya que hay
+
+4
+00:00:06,912 --> 00:00:11,930
+una pregunta de programación después. ¿Listo equipo? Acción. [SONIDO]
+
+5
+00:00:11,930 --> 00:00:14,540
+&gt;&gt; Muy bien, lo que vamos a hacer son tres sacudidas hacia la
+
+6
+00:00:14,540 --> 00:00:18,520
+izquierda con tres sacudidas a la derecha y luego vamos a repetirlo. ¿Listo?
+
+7
+00:00:18,520 --> 00:00:28,520
+[MÚSICA]
+
+8
+00:00:35,687 --> 00:00:39,040
+Así que aquí está la pregunta. Imagina que tuvieras que modelar este baile en
+
+9
+00:00:39,040 --> 00:00:43,480
+código. ¿Cómo lo harías? Estas son algunas de las opciones de respuesta.

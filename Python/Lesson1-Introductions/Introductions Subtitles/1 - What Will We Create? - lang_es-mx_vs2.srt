@@ -1,0 +1,115 @@
+1
+00:00:00,590 --> 00:00:02,950
+Hola! Mi nombre es Kunal y estoy encantado de que
+
+2
+00:00:02,950 --> 00:00:06,510
+estés considerando este curso. Ahora, antes de sumergirnos en él,
+
+3
+00:00:06,510 --> 00:00:08,980
+quiero presentarme y también compartir contigo
+
+4
+00:00:08,980 --> 00:00:11,460
+dos razones por las que estoy muy emocionado por impartir
+
+5
+00:00:11,460 --> 00:00:15,780
+este curso. En primer lugar, me encanta enseñar. Antes de unirme a Udacity, yo
+
+6
+00:00:15,780 --> 00:00:19,040
+era un profesor de ciencias de sexto grado en la India. Recuerdo haber disfrutado
+
+7
+00:00:19,040 --> 00:00:21,920
+realmente el presentar nuevas ideas a mis alumnos. Eso los hacía
+
+8
+00:00:21,920 --> 00:00:25,820
+cuestionarse sobre lo que ya sabían. Esa experiencia me llevó
+
+9
+00:00:25,820 --> 00:00:27,810
+a obtener una maestría en la Escuela de
+
+10
+00:00:27,810 --> 00:00:31,490
+Educación en la Universidad de Stanford. La segunda razón, es que me encanta
+
+11
+00:00:31,490 --> 00:00:34,500
+crear cosas mediante la programación. Ahora, en este curso, vamos
+
+12
+00:00:34,500 --> 00:00:37,520
+a utilizar el lenguaje de programación Python para crear un montón
+
+13
+00:00:37,520 --> 00:00:40,140
+de proyectos. Y mi esperanza es que quieras
+
+14
+00:00:40,140 --> 00:00:43,700
+compartir estos proyectos con tus amigos. Éstos son algunos de ellos.
+
+15
+00:00:43,700 --> 00:00:47,290
+El primero, es el Proyecto Toma un Descanso. Conoces
+
+16
+00:00:47,290 --> 00:00:50,830
+un amigo que trabaja demasiadas horas? Sugerencia, esa persona podrías
+
+17
+00:00:50,830 --> 00:00:53,550
+ser tu. Vamos a escribir un programa que programe
+
+18
+00:00:53,550 --> 00:00:56,980
+descansos durante todo el día, recordándole a esa persona que escuche
+
+19
+00:00:56,980 --> 00:00:59,890
+música, se levante y baile al ritmo de su canción favorita,
+
+20
+00:00:59,890 --> 00:01:02,110
+o simplemente se aleje del equipo de vez en
+
+21
+00:01:02,110 --> 00:01:06,710
+cuando. Otro se llama Proyecto Editor de Vulgaridades. Imagina
+
+22
+00:01:06,710 --> 00:01:09,310
+que recibes un correo electrónico de tu jefe, solicitando tu ayuda
+
+23
+00:01:09,310 --> 00:01:11,840
+con algo. Contestas que puedes echarle un
+
+24
+00:01:11,840 --> 00:01:15,670
+vistazo, pero accidentalmente terminas incluyendo una palabra
+
+25
+00:01:15,670 --> 00:01:20,350
+inadecuada. Ups. Vamos a escribir un programa Python corto que detecta lenguaje obsceno
+
+26
+00:01:20,350 --> 00:01:24,820
+y te ahorra momentos embarazosos en el futuro. El proyecto final
+
+27
+00:01:24,820 --> 00:01:29,090
+es el Proyecto Base de Datos de Películas. En este proyecto vamos a aprender cómo hacer una página web
+
+28
+00:01:29,090 --> 00:01:37,570
+asombrosa que lista tus películas favoritas y muestra sus avances. [SONIDO]
+
+29
+00:01:37,570 --> 00:01:42,400
+[MÚSICA]

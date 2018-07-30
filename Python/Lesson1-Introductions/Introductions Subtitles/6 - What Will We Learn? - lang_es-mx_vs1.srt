@@ -1,0 +1,31 @@
+1
+00:00:00,580 --> 00:00:02,920
+Gracias por responder a estas preguntas. En caso
+
+2
+00:00:02,920 --> 00:00:04,600
+de que sientas que necesitas un repaso sobre algunas
+
+3
+00:00:04,600 --> 00:00:07,480
+de las ideas básicas de programación, hay algunos enlaces
+
+4
+00:00:07,480 --> 00:00:09,950
+útiles en las notas del instructor. Ahora, vamos a
+
+5
+00:00:09,950 --> 00:00:12,690
+hacer estos proyectos en la próxima lección muy pronto.
+
+6
+00:00:12,690 --> 00:00:14,700
+Pero antes de hacerlo, quiero abordar una
+
+7
+00:00:14,700 --> 00:00:18,790
+cuestión importante, que es, ¿qué ideas de programación vamos
+
+8
+00:00:18,790 --> 00:00:21,500
+a aprender en este curso? He aquí la respuesta.

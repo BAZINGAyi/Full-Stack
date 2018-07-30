@@ -1,0 +1,35 @@
+1
+00:00:00,190 --> 00:00:02,950
+Gracias por compartir tu respuesta. Ahora, antes de continuar con
+
+2
+00:00:02,950 --> 00:00:05,620
+el curso, quiero asegurarme de que conoces los
+
+3
+00:00:05,620 --> 00:00:08,820
+los requisitos previos para el curso. Queremos que nuestros estudiantes tengan
+
+4
+00:00:08,820 --> 00:00:14,210
+algunas ideas básicas de computación. Ideas como sentencias condicionales, ciclos y definiciones de
+
+5
+00:00:14,210 --> 00:00:18,060
+funciones. Puedes demostrar que conoces estas ideas si continuas
+
+6
+00:00:18,060 --> 00:00:20,770
+mirando este video. Y respondiendo a las dos preguntas que
+
+7
+00:00:20,770 --> 00:00:23,010
+siguen. Por cierto, si sientes que necesitas un
+
+8
+00:00:23,010 --> 00:00:25,510
+repaso sobre cualquiera de estos temas, hay algunos enlaces
+
+9
+00:00:25,510 --> 00:00:29,030
+útiles en las notas del instructor. Bueno, esta es la primera pregunta.

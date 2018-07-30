@@ -1,0 +1,35 @@
+1
+00:00:00,160 --> 00:00:05,780
+É um dia tão comum como qualquer outro. Jenny acorda e decide
+
+2
+00:00:05,780 --> 00:00:10,990
+dar uma caminhada. Nesse dia, porém, ela pega um
+
+3
+00:00:10,990 --> 00:00:17,520
+caminho pelo qual não costuma passar. Logo, uma sensação perturbadora de estar
+
+4
+00:00:17,520 --> 00:00:23,850
+perdida toma conta e ela chega a uma bifurcação na estrada. Qual caminho seguir?
+
+5
+00:00:25,370 --> 00:00:31,710
+Somente seu diário confiável pode responder a essa pergunta. Ela abre o diário e encontra
+
+6
+00:00:31,710 --> 00:00:40,150
+a resposta, uma mensagem. Que diz para pegar o caminho menos percorrido. Agora, cabe a você
+
+7
+00:00:40,150 --> 00:00:44,430
+ajudar Jennie a chegar em casa. Você só precisa
+
+8
+00:00:44,430 --> 00:00:48,980
+ler este código, que definirá o próximo passo que ela dará.
+
+9
+00:00:50,140 --> 00:00:53,610
+Que caminho você fará Jennie seguir?

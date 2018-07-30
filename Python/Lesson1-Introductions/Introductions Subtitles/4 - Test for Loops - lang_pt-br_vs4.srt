@@ -1,0 +1,35 @@
+1
+00:00:00,028 --> 00:00:02,322
+Atrás de mim está a equipe de dança oficial da
+
+2
+00:00:02,322 --> 00:00:04,616
+Udacity, que apresentará alguns
+
+3
+00:00:04,616 --> 00:00:06,912
+passos para nós. Assista com atenção, pois
+
+4
+00:00:06,912 --> 00:00:11,930
+uma pergunta de programação será feita em seguida. Preparados? Ação. [SOUND]
+
+5
+00:00:11,930 --> 00:00:14,540
+&gt;&gt; Muito bem, vamos balançar três
+
+6
+00:00:14,540 --> 00:00:18,520
+vezes para a esquerda, três vezes para a direita e repetir isso. Prontos?
+
+7
+00:00:18,520 --> 00:00:28,520
+[MUSIC]
+
+8
+00:00:35,687 --> 00:00:39,040
+Aqui vai a pergunta. Imagine que você tivesse que criar um modelo dessa dança em
+
+9
+00:00:39,040 --> 00:00:43,480
+código. Como faria isso? Veja algumas opções de resposta.
